@@ -1,0 +1,89 @@
+{
+  "checks": [
+    "Initial real recording and WebGL scene loaded without fallback",
+    "Prompt -> HTTP -> PyTorch tensors -> rendered session",
+    "Layer/head/query controls display exact recorded attention and residual norm",
+    "Actual WebGL node click updates query/layer inspector",
+    "Orbit drag, camera preset and selection focus work",
+    "Attention matrix, threshold and visibility controls work",
+    "Timeline, context growth, play/pause and playback speed use recorded steps",
+    "Export/import preserves all tensors; malformed causal weights rejected without replacing session",
+    "Controlled head-output ablation changes real residuals and shows same-input baseline comparison",
+    "Interpretation guide opens and closes",
+    "Thirty scene replacements have stable geometry/texture resource counts",
+    "Maximum 48-token budget renders below 100 draw calls and exports/reimports below 5 MiB",
+    "Reduced-motion preference disables presentation transitions",
+    "390px responsive layout has no horizontal overflow",
+    "No-WebGL fallback retains functional tensor inspection and recording",
+    "No page, console, shader or failed-asset errors"
+  ],
+  "passed": 16,
+  "browser": "156.0.8078.80",
+  "environment": {
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+    "webgl_version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+    "gpu_renderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 4060 Ti (0x00002803) Direct3D11 vs_5_0 ps_5_0, D3D11)",
+    "gpu_vendor": "Google Inc. (NVIDIA)"
+  },
+  "viewport": "1600x1050 desktop / 390x844 mobile",
+  "rendering_sample": {
+    "frames": 1215,
+    "sampleCount": 600,
+    "meanFrameMs": 6,
+    "p95FrameMs": 5.600000000000364,
+    "fps": 166.66666666666666,
+    "drawCalls": 25,
+    "triangles": 4416,
+    "geometries": 12,
+    "textures": 12,
+    "nodes": 24,
+    "renderer": "WebKit WebGL"
+  },
+  "maximum_budget": {
+    "id": "a2d598e4-0f6f-41a6-8cdf-5b8cc97c43e7",
+    "frames": 8,
+    "context": 40,
+    "export_bytes": 3430366,
+    "scene": {
+      "frames": 1372,
+      "sampleCount": 600,
+      "meanFrameMs": 6.361000000000001,
+      "p95FrameMs": 5.600000000000364,
+      "fps": 157.2079861656972,
+      "drawCalls": 64,
+      "triangles": 26082,
+      "geometries": 12,
+      "textures": 51,
+      "nodes": 141,
+      "renderer": "WebKit WebGL"
+    }
+  },
+  "resource_counts_before": {
+    "frames": 853,
+    "sampleCount": 600,
+    "meanFrameMs": 6.9075,
+    "p95FrameMs": 5.699999999998909,
+    "fps": 144.77017734346725,
+    "drawCalls": 25,
+    "triangles": 4476,
+    "geometries": 12,
+    "textures": 12,
+    "nodes": 24,
+    "renderer": "WebKit WebGL"
+  },
+  "resource_counts_after": {
+    "frames": 889,
+    "sampleCount": 600,
+    "meanFrameMs": 7.2038333333333355,
+    "p95FrameMs": 5.699999999998909,
+    "fps": 138.81498276380626,
+    "drawCalls": 25,
+    "triangles": 4416,
+    "geometries": 12,
+    "textures": 12,
+    "nodes": 24,
+    "renderer": "WebKit WebGL"
+  },
+  "errors": [],
+  "measurement_note": "Headless Chromium requestAnimationFrame intervals, not GPU timings or visible-display FPS; includes interaction workload. See PERFORMANCE.md."
+}

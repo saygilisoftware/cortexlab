@@ -1,0 +1,10 @@
+{
+  "scope": "CPU partial safetensors matrix read only; no full model, server, browser or GPU execution",
+  "connections": 2000000,
+  "total_matrix_connections": 12582912,
+  "stride": 7,
+  "bytes": 8000252,
+  "elapsed_ms": 91.2778000056278,
+  "exact_source_weight_probes": 5,
+  "source_device": "cpu"
+}

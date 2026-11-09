@@ -1,0 +1,13 @@
+{
+  "scope": "Extracted source archive using the already installed Python environment; not a fresh online dependency install",
+  "checks": {
+    "zip_crc": "passed",
+    "model_checkpoint_included": "passed",
+    "third_party_license_included": "passed",
+    "packaged_server_startup": "passed",
+    "packaged_checkpoint_load": "passed",
+    "ui_vendor_demo_http_routes": "passed",
+    "packaged_real_inference": "passed"
+  },
+  "cleanup": "Generated workspace staging directory remains ignored/excluded after Windows cleanup failure and automatic approval rejection; no unrelated files modified"
+}

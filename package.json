@@ -1,0 +1,13 @@
+{
+  "name": "cortexlab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Optional dependency-free JavaScript checks; Python serves the application",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "check": "node --check frontend/src/main.js && node --check frontend/src/scene.js && node --check frontend/src/contracts.js && node --check frontend/src/neural-controller.js && node --check frontend/src/neural-state.js && node --check frontend/src/neural-scene.js && node --check frontend/src/neural-protocol.js"
+  },
+  "engines": { "node": ">=20.19" },
+  "license": "MIT"
+}

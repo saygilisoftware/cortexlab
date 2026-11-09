@@ -1,0 +1,37 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+build/
+dist/
+
+# Local secrets and downloaded caches
+.env
+.env.*
+!.env.example
+.aws/
+.cache/
+node_modules/
+models/
+
+# Private local recordings and generated test output
+recordings/
+test-results/
+playwright-report/
+artifacts/local/
+CortexLab-v*.zip
+cortexlab-release-check-*/
+*.log
+
+# Editor and OS files
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,329 @@
+a comet is amber . the comet glows .
+a comet is amber . the comet moves .
+a comet is amber . the comet pulses .
+a comet is amber . the comet rotates .
+a comet is blue . the comet glows .
+a comet is blue . the comet moves .
+a comet is blue . the comet pulses .
+a comet is blue . the comet rotates .
+a comet is cyan . the comet glows .
+a comet is cyan . the comet moves .
+a comet is cyan . the comet pulses .
+a comet is cyan . the comet rotates .
+a comet is green . the comet glows .
+a comet is green . the comet moves .
+a comet is green . the comet pulses .
+a comet is green . the comet rotates .
+a comet is violet . the comet glows .
+a comet is violet . the comet moves .
+a comet is violet . the comet pulses .
+a comet is violet . the comet rotates .
+a comet is white . the comet glows .
+a comet is white . the comet moves .
+a comet is white . the comet pulses .
+a comet is white . the comet rotates .
+a crystal is amber . the crystal glows .
+a crystal is amber . the crystal moves .
+a crystal is amber . the crystal pulses .
+a crystal is amber . the crystal rotates .
+a crystal is blue . the crystal glows .
+a crystal is blue . the crystal moves .
+a crystal is blue . the crystal pulses .
+a crystal is blue . the crystal rotates .
+a crystal is cyan . the crystal glows .
+a crystal is cyan . the crystal moves .
+a crystal is cyan . the crystal pulses .
+a crystal is cyan . the crystal rotates .
+a crystal is green . the crystal glows .
+a crystal is green . the crystal moves .
+a crystal is green . the crystal pulses .
+a crystal is green . the crystal rotates .
+a crystal is violet . the crystal glows .
+a crystal is violet . the crystal moves .
+a crystal is violet . the crystal pulses .
+a crystal is violet . the crystal rotates .
+a crystal is white . the crystal glows .
+a crystal is white . the crystal moves .
+a crystal is white . the crystal pulses .
+a crystal is white . the crystal rotates .
+a neuron is amber . the neuron glows .
+a neuron is amber . the neuron moves .
+a neuron is amber . the neuron pulses .
+a neuron is amber . the neuron rotates .
+a neuron is blue . the neuron glows .
+a neuron is blue . the neuron moves .
+a neuron is blue . the neuron pulses .
+a neuron is blue . the neuron rotates .
+a neuron is cyan . the neuron glows .
+a neuron is cyan . the neuron moves .
+a neuron is cyan . the neuron pulses .
+a neuron is cyan . the neuron rotates .
+a neuron is green . the neuron glows .
+a neuron is green . the neuron moves .
+a neuron is green . the neuron pulses .
+a neuron is green . the neuron rotates .
+a neuron is violet . the neuron glows .
+a neuron is violet . the neuron moves .
+a neuron is violet . the neuron pulses .
+a neuron is violet . the neuron rotates .
+a neuron is white . the neuron glows .
+a neuron is white . the neuron moves .
+a neuron is white . the neuron pulses .
+a neuron is white . the neuron rotates .
+a planet is amber . the planet glows .
+a planet is amber . the planet moves .
+a planet is amber . the planet pulses .
+a planet is amber . the planet rotates .
+a planet is blue . the planet glows .
+a planet is blue . the planet moves .
+a planet is blue . the planet pulses .
+a planet is blue . the planet rotates .
+a planet is cyan . the planet glows .
+a planet is cyan . the planet moves .
+a planet is cyan . the planet pulses .
+a planet is cyan . the planet rotates .
+a planet is green . the planet glows .
+a planet is green . the planet moves .
+a planet is green . the planet pulses .
+a planet is green . the planet rotates .
+a planet is violet . the planet glows .
+a planet is violet . the planet moves .
+a planet is violet . the planet pulses .
+a planet is violet . the planet rotates .
+a planet is white . the planet glows .
+a planet is white . the planet moves .
+a planet is white . the planet pulses .
+a planet is white . the planet rotates .
+a signal is amber . the signal glows .
+a signal is amber . the signal moves .
+a signal is amber . the signal pulses .
+a signal is amber . the signal rotates .
+a signal is blue . the signal glows .
+a signal is blue . the signal moves .
+a signal is blue . the signal pulses .
+a signal is blue . the signal rotates .
+a signal is cyan . the signal glows .
+a signal is cyan . the signal moves .
+a signal is cyan . the signal pulses .
+a signal is cyan . the signal rotates .
+a signal is green . the signal glows .
+a signal is green . the signal moves .
+a signal is green . the signal pulses .
+a signal is green . the signal rotates .
+a signal is violet . the signal glows .
+a signal is violet . the signal moves .
+a signal is violet . the signal pulses .
+a signal is violet . the signal rotates .
+a signal is white . the signal glows .
+a signal is white . the signal moves .
+a signal is white . the signal pulses .
+a signal is white . the signal rotates .
+a star is amber . the star glows .
+a star is amber . the star moves .
+a star is amber . the star pulses .
+a star is amber . the star rotates .
+a star is blue . the star glows .
+a star is blue . the star moves .
+a star is blue . the star pulses .
+a star is blue . the star rotates .
+a star is cyan . the star glows .
+a star is cyan . the star moves .
+a star is cyan . the star pulses .
+a star is cyan . the star rotates .
+a star is green . the star glows .
+a star is green . the star moves .
+a star is green . the star pulses .
+a star is green . the star rotates .
+a star is violet . the star glows .
+a star is violet . the star moves .
+a star is violet . the star pulses .
+a star is violet . the star rotates .
+a star is white . the star glows .
+a star is white . the star moves .
+a star is white . the star pulses .
+a star is white . the star rotates .
+a transformer predicts the next token .
+attention mixes value vectors .
+each layer transforms the token state .
+observe the comet . its color is amber .
+observe the comet . its color is blue .
+observe the comet . its color is cyan .
+observe the comet . its color is green .
+observe the comet . its color is violet .
+observe the comet . its color is white .
+observe the crystal . its color is amber .
+observe the crystal . its color is blue .
+observe the crystal . its color is cyan .
+observe the crystal . its color is green .
+observe the crystal . its color is violet .
+observe the crystal . its color is white .
+observe the neuron . its color is amber .
+observe the neuron . its color is blue .
+observe the neuron . its color is cyan .
+observe the neuron . its color is green .
+observe the neuron . its color is violet .
+observe the neuron . its color is white .
+observe the planet . its color is amber .
+observe the planet . its color is blue .
+observe the planet . its color is cyan .
+observe the planet . its color is green .
+observe the planet . its color is violet .
+observe the planet . its color is white .
+observe the signal . its color is amber .
+observe the signal . its color is blue .
+observe the signal . its color is cyan .
+observe the signal . its color is green .
+observe the signal . its color is violet .
+observe the signal . its color is white .
+observe the star . its color is amber .
+observe the star . its color is blue .
+observe the star . its color is cyan .
+observe the star . its color is green .
+observe the star . its color is violet .
+observe the star . its color is white .
+the amber comet glows .
+the amber comet moves .
+the amber comet pulses .
+the amber comet rotates .
+the amber crystal glows .
+the amber crystal moves .
+the amber crystal pulses .
+the amber crystal rotates .
+the amber neuron glows .
+the amber neuron moves .
+the amber neuron pulses .
+the amber neuron rotates .
+the amber planet glows .
+the amber planet moves .
+the amber planet pulses .
+the amber planet rotates .
+the amber signal glows .
+the amber signal moves .
+the amber signal pulses .
+the amber signal rotates .
+the amber star glows .
+the amber star moves .
+the amber star pulses .
+the amber star rotates .
+the blue comet glows .
+the blue comet moves .
+the blue comet pulses .
+the blue comet rotates .
+the blue crystal glows .
+the blue crystal moves .
+the blue crystal pulses .
+the blue crystal rotates .
+the blue neuron glows .
+the blue neuron moves .
+the blue neuron pulses .
+the blue neuron rotates .
+the blue planet glows .
+the blue planet moves .
+the blue planet pulses .
+the blue planet rotates .
+the blue signal glows .
+the blue signal moves .
+the blue signal pulses .
+the blue signal rotates .
+the blue star glows .
+the blue star moves .
+the blue star pulses .
+the blue star rotates .
+the cyan comet glows .
+the cyan comet moves .
+the cyan comet pulses .
+the cyan comet rotates .
+the cyan crystal glows .
+the cyan crystal moves .
+the cyan crystal pulses .
+the cyan crystal rotates .
+the cyan neuron glows .
+the cyan neuron moves .
+the cyan neuron pulses .
+the cyan neuron rotates .
+the cyan planet glows .
+the cyan planet moves .
+the cyan planet pulses .
+the cyan planet rotates .
+the cyan signal glows .
+the cyan signal moves .
+the cyan signal pulses .
+the cyan signal rotates .
+the cyan star glows .
+the cyan star moves .
+the cyan star pulses .
+the cyan star rotates .
+the green comet glows .
+the green comet moves .
+the green comet pulses .
+the green comet rotates .
+the green crystal glows .
+the green crystal moves .
+the green crystal pulses .
+the green crystal rotates .
+the green neuron glows .
+the green neuron moves .
+the green neuron pulses .
+the green neuron rotates .
+the green planet glows .
+the green planet moves .
+the green planet pulses .
+the green planet rotates .
+the green signal glows .
+the green signal moves .
+the green signal pulses .
+the green signal rotates .
+the green star glows .
+the green star moves .
+the green star pulses .
+the green star rotates .
+the model observes a sequence of tokens .
+the signal moves through the model .
+the violet comet glows .
+the violet comet moves .
+the violet comet pulses .
+the violet comet rotates .
+the violet crystal glows .
+the violet crystal moves .
+the violet crystal pulses .
+the violet crystal rotates .
+the violet neuron glows .
+the violet neuron moves .
+the violet neuron pulses .
+the violet neuron rotates .
+the violet planet glows .
+the violet planet moves .
+the violet planet pulses .
+the violet planet rotates .
+the violet signal glows .
+the violet signal moves .
+the violet signal pulses .
+the violet signal rotates .
+the violet star glows .
+the violet star moves .
+the violet star pulses .
+the violet star rotates .
+the white comet glows .
+the white comet moves .
+the white comet pulses .
+the white comet rotates .
+the white crystal glows .
+the white crystal moves .
+the white crystal pulses .
+the white crystal rotates .
+the white neuron glows .
+the white neuron moves .
+the white neuron pulses .
+the white neuron rotates .
+the white planet glows .
+the white planet moves .
+the white planet pulses .
+the white planet rotates .
+the white signal glows .
+the white signal moves .
+the white signal pulses .
+the white signal rotates .
+the white star glows .
+the white star moves .
+the white star pulses .
+the white star rotates .

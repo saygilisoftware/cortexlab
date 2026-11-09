@@ -1,0 +1,44 @@
+{
+  "pretrained_weights_executed": true,
+  "passed": 8,
+  "checks": [
+    "Real 1.7B recorded session loads through the Qwen profile; unsupported ablation disabled",
+    "Original block/head indices and exact BF16-source measurements map correctly; sample disclosed",
+    "Fresh real CUDA inference via visible Run button produces Paris",
+    "Changed prompt produces Tokyo and different genuine captured residuals",
+    "Real pretrained generation-step replay and attention matrix work",
+    "Selective pretrained recording exports/reimports without changing measured values",
+    "Qwen 3D scene and responsive controls render without horizontal overflow",
+    "No browser page, console or shader errors"
+  ],
+  "browser": "156.0.8078.80",
+  "warm_ui_request_ms": 474.632900004508,
+  "scope": "Two actual local browser requests, not a latency percentile benchmark; first is not guaranteed cold and includes loading/hashing only if the server model cache is empty.",
+  "first_output": "Paris",
+  "second_output": "Tokyo",
+  "first_metrics": {
+    "total_ms": 244.81889998423867,
+    "model_ms": 222.97810000600293,
+    "capture_ms": 20.889500039629638
+  },
+  "second_metrics": {
+    "total_ms": 295.65139999613166,
+    "model_ms": 263.5442999890074,
+    "capture_ms": 30.62310002860613
+  },
+  "scene": {
+    "frames": 574,
+    "sampleCount": 573,
+    "meanFrameMs": 7.417102966841188,
+    "p95FrameMs": 5.700000000000728,
+    "fps": 134.82352941176467,
+    "drawCalls": 40,
+    "triangles": 12786,
+    "geometries": 12,
+    "textures": 27,
+    "nodes": 69,
+    "renderer": "WebKit WebGL"
+  },
+  "errors": [],
+  "first_ui_request_ms": 392.5891000253614
+}

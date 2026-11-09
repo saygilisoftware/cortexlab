@@ -1,0 +1,3 @@
+-r requirements.txt
+playwright==1.59.0
+pillow==12.2.0

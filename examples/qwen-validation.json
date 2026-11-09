@@ -1,0 +1,48 @@
+{
+  "schema": "cortexlab.session/v2",
+  "model_parameter_count": 1720574976,
+  "layers": 28,
+  "heads": 16,
+  "d_model": 2048,
+  "layer_indices": [
+    0,
+    13,
+    27
+  ],
+  "head_indices": [
+    0,
+    5,
+    10,
+    15
+  ],
+  "channel_count": 64,
+  "frames": 2,
+  "tokens_per_frame": [
+    23,
+    24
+  ],
+  "output": "Paris",
+  "bytes": 235388,
+  "load_ms": 42831.89470000798,
+  "metrics": {
+    "total_ms": 833.984099997906,
+    "model_ms": 768.7350000196602,
+    "capture_ms": 63.15890001133084
+  },
+  "device": "cuda",
+  "dtype": "bfloat16",
+  "pretrained_weights_executed": true,
+  "checkpoint_loading_complete": true,
+  "cuda_peak_allocated_bytes": 3452215296,
+  "cuda_peak_reserved_bytes": 3474980864,
+  "notes": "Single actual pretrained capture, eager attention and full-prefix recomputation. Load and artifact hashing separate from inference. Not a warm benchmark.",
+  "attention_max_row_sum_error": 0.0023508071899414062,
+  "checks_passed": [
+    "complete safetensors checkpoint load with no missing/unexpected/mismatched/error keys",
+    "strict JSON finite serialization",
+    "selected tensor shapes",
+    "causal mask",
+    "attention row normalization BF16 tolerance0.006",
+    "full-width norms bound sampled norms"
+  ]
+}
